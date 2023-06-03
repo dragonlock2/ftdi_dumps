@@ -10,3 +10,4 @@ FTDI EEPROM dumps for common JTAG FPGA programmers mostly pulled from https://gi
 | digilent_smt1.conf | FT2232H |
 | pynqz2_ftdi.conf | FT2232H |
 | ft4232h.conf | FT4232H |
+| BD-ICDI-B.conf | FT2232D |
